@@ -1,5 +1,5 @@
 
-# A. INHERITANCE (Pewarisan)
+# A. INHERITANCE (Pewarisan)#pew
 
 class Produk:
     def __init__(self, nama_produk, harga):
